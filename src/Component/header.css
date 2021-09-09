@@ -1,0 +1,103 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    overflow: hidden;
+    background-color:cornflowerblue; 
+    box-shadow: cornsilk;
+    
+
+  
+}
+
+h1{
+color:rgb(27, 47, 102);
+margin-top: 18px;
+}
+header nav{
+ display: flex;
+
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-top: 24px;
+}
+nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    padding: 0 15px;
+}
+
+.card-text1{
+    margin-top: 4000px ;
+  }
+  .card-title1{
+    margin-top: 100px ;
+    margin-left: 10px;
+  }
+
+  .link-img{
+      background-color: blue;
+      color: rgb(74, 112, 99);
+  }
+
+
+
+
+  .table{
+     
+ margin-top: 200px;
+ margin-left: 40px;
+ border-radius: 5px;
+ height: 120px;
+ background-color: rgb(121, 121, 255);
+ width: 800px;
+    
+}
+    .Quality{
+        margin-left: 50px;
+    }
+    .tbody{
+        margin-top: 200px;
+
+        margin-top: 10px;
+        height: 50px;
+
+        background-color: #ffffff;
+        box-shadow: 0 0 20px #dac1c1;
+    }
+.table2{
+    margin-top: -190px;
+margin-left: 870px;
+    height: 350px;
+width: 350px;
+    background-color: #ffffff;
+    box-shadow: 0 0 20px #e9e9e9;
+border-radius: 5px;
+}
+
+.hr{
+ margin-left: 30px;
+width: 300px;
+}
+.tr1 p{
+    margin-left: 30px;
+
+
+}
+.tr2 p{
+    margin-left: 150px;
+
+
+}
+.tr3 p{
+    margin-left: 200px;
+
+
+}
+.tr4 p{
+    margin-left: 180px;
+
+
+}

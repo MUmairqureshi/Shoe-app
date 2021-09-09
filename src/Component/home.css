@@ -1,0 +1,43 @@
+.text > h1{ 
+    
+  font-size: 70px;
+  font-weight: 600;  
+
+
+
+    align-items: left;
+      background-color: #fff;
+  
+
+    
+}
+.text > p{
+
+font-size: 14px;
+line-height: 24px;
+color: #7d7d7d;
+margin: 10px  70px;
+
+}
+
+.text  > h2{
+
+  
+  font-size: 25px;
+
+margin: 5px 10px;
+line-height: 24px;
+
+}
+
+
+.text{
+  
+width: 40%;
+float: left;
+padding: 70px 0 0 5px;
+
+
+}
+
+  

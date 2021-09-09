@@ -1,0 +1,94 @@
+
+body{
+  text-align: center;
+}
+
+
+.productContainer > div{
+ max-width: 300px;
+ box-shadow: 0 0 10px #463636 ;
+align-items: center;
+text-align: center;
+margin: 10px;
+  
+}
+
+
+.productContainer {
+  display: flex;
+  flex-wrap: wrap;
+  
+  box-shadow: 0 0 10px #463636;
+}
+
+.productContainer > .link {
+  text-align: center;
+width: 500px;
+height: 430px;
+box-shadow: 0 0 20px #f8d1d1;
+margin: 5px ;
+margin-left: 100px;
+margin-top: 50px;
+
+
+
+}
+
+
+.btn{
+ background-color:deepskyblue;
+ display: block;
+ margin:50px;
+ width: 400px;
+ height: 35px;
+ border-radius: 8px;
+
+}
+
+.bt{
+  background-color:cadetblue;
+  margin:25px;
+  width: 400px;
+  height: 35px;
+
+  border-radius: 8px;
+ }
+
+
+ .contact{
+
+  font-size: 50px;
+width: 70px;
+text-align: center;
+color: blueviolet;
+ align-items: left;
+ background-color: #fff;
+padding: -5%  40%;
+display: inline;
+ }
+
+
+
+
+ .card-text{
+   width: 498px;
+line-height: 40px;
+ }
+
+
+ #Summer{
+  width: 498px;
+ }
+
+
+
+ #Shoes{
+   margin-left: 80px;
+   width: 308px;
+
+ }
+ #btn{
+  margin-left: 180px;
+
+ }
+
